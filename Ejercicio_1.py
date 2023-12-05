@@ -1,0 +1,5 @@
+seg = int(input("dime el numero de segundos"))
+horas = (seg//3600)
+minutos=((seg%3600)//60)
+segundos=((seg%3600)%60)
+print(f"horas: {horas} minutos: {minutos} segundos {segundos}")

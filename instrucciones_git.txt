@@ -13,4 +13,4 @@ git add nombre_fichero
 pasar a la fase commit
 git commit -m "que hemos hecho"
 
-gir push -u origin main
+push -u origin main
